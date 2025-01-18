@@ -6,7 +6,7 @@
 
 Посмотрите видео и скриншоты ниже, чтобы увидеть, как работает скрипт.
 
-### Видео демо
+### Видео 
 
 [![Пример видео](https://raw.githubusercontent.com/SerGioPlay01/social_share_ru/refs/heads/main/screen.png)](https://www.youtube.com/embed/AGHDYAAqOJE?si=R5r2H2Z_PzTSwm9t)
 
