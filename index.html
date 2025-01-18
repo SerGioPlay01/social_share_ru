@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Пример страницы для шаринга</title>
+    <link rel="stylesheet" href="/index.css">
+
+     <!-- Open Graph мета-теги -->
+     <meta property="og:title" content="Пример страницы для шаринга">
+     <meta property="og:description" content="Это пример описания страницы для функций поделиться.">
+     <meta property="og:image" content="/social-share-preview-og.jpg">
+     <meta property="og:url" content="https://ваш_сайт_здесь.ком">
+     <meta property="og:type" content="website">
+     
+     <!-- Twitter Card мета-теги (если хотите поддержку Twitter) -->
+     <meta name="twitter:card" content="summary_large_image">
+     <meta name="twitter:title" content="Пример страницы для шаринга">
+     <meta name="twitter:description" content="Это пример описания страницы для функций поделиться.">
+     <meta name="twitter:image" content="/social-share-preview-og.jpg">
+</head>
+<body>
+    <div class="share-container">
+        <h1>Поделиться этой страницей</h1>
+        <button id="share-vk" class="share-button">ВКонтакте</button>
+        <button id="share-telegram" class="share-button">Telegram</button>
+        <button id="share-whatsapp" class="share-button">WhatsApp</button>
+        <button id="share-x" class="share-button">X (Twitter)</button>
+        <button id="share-viber" class="share-button">Viber</button>
+        <button id="share-instagram" class="share-button">Instagram</button>
+        <button id="copy-link" class="share-button">Скопировать ссылку</button>
+    </div>
+
+    <!-- Модальное окно -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <p id="modal-message">Текст модального окна</p>
+            <button class="modal-close" id="modal-close">Закрыть</button>
+        </div>
+    </div>
+    <script src="/index.js"></script>
+</body>
+</html>
