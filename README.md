@@ -8,7 +8,7 @@
 
 ### Видео демо
 
-[![Пример видео](screen.png)](video.mp4)
+[![Пример видео](https://raw.githubusercontent.com/SerGioPlay01/social_share_ru/refs/heads/main/screen.png)](video.mp4)
 
 
 ## Особенности
