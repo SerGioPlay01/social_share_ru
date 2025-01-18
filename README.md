@@ -22,6 +22,7 @@
 
 1. Склонируйте репозиторий:
 
-bash
+~~~
    git clone https://github.com/your-username/social_share_ru.git
+~~~
    
