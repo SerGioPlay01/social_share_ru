@@ -23,6 +23,6 @@
 1. Склонируйте репозиторий:
 
 ~~~
-   git clone https://github.com/your-username/social_share_ru.git
+   git clone https://github.com/SerGioPlay01/social_share_ru.git
 ~~~
    
